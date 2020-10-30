@@ -1,4 +1,9 @@
+font-family: 'Anton', sans-serif;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: ,'Roboto' sans-serif;
+font-family: 'Segoe UI', sans-serif;
 body{
+    font-family: ;
     margin-left: 2%;
 }
 
@@ -72,6 +77,9 @@ a {
     list-style: none;
     text-decoration: none;
         
+}
+p {
+    font-family: 'Segoe UI';
 }
 
 
@@ -157,12 +165,14 @@ a {
 main{
     text-align: left;
     width: 50%;
+    font-family: 'IBM Plex Sans'
 }
 h1{
     color:black;
 }
 h2{
-    color:grey
+    color:grey;
+    font-family: 'IBM Plex Sans';
 }
 h3 {
     font-size: 44px;
